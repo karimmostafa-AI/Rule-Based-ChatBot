@@ -116,8 +116,8 @@ reflections = {
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rule-based-chatbot.git
-cd rule-based-chatbot
+git clone https://github.com/karimmostafa-AI/Rule-Based-ChatBot.git
+cd Rule-Based-ChatBot
 
 # Install dependencies
 uv sync
@@ -166,8 +166,8 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 #### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rule-based-chatbot.git
-cd rule-based-chatbot
+git clone https://github.com/karimmostafa-AI/Rule-Based-ChatBot.git
+cd Rule-Based-ChatBot
 ```
 
 #### 3. Set Up Virtual Environment
@@ -575,8 +575,8 @@ Rule-Based Engine + NLU + Context Manager + API Gateway
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/rule-based-chatbot.git
-   cd rule-based-chatbot
+   git clone https://github.com/karimmostafa-AI/Rule-Based-ChatBot.git
+   cd Rule-Based-ChatBot
    ```
 
 2. **Create a Feature Branch**
@@ -669,9 +669,9 @@ SOFTWARE.
 
 ### 📞 Contact & Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/rule-based-chatbot/issues)
-- **Discussions**: [Join the conversation](https://github.com/yourusername/rule-based-chatbot/discussions)
-- **Email**: your.email@example.com
+- **GitHub Issues**: [Report bugs or request features](https://github.com/karimmostafa-AI/Rule-Based-ChatBot/issues)
+- **Discussions**: [Join the conversation](https://github.com/karimmostafa-AI/Rule-Based-ChatBot/discussions)
+- **Email**: karim.mostafa.ai@gmail.com
 
 ---
 
