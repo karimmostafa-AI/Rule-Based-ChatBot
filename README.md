@@ -637,7 +637,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 Karim Mostafa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -666,12 +666,6 @@ SOFTWARE.
 - **Astral Team**: For creating the fast and reliable UV package manager
 - **Python Community**: For continuous support and excellent libraries
 - **Open Source Contributors**: For inspiration and best practices
-
-### 📞 Contact & Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/karimmostafa-AI/Rule-Based-ChatBot/issues)
-- **Discussions**: [Join the conversation](https://github.com/karimmostafa-AI/Rule-Based-ChatBot/discussions)
-- **Email**: karim.mostafa.ai@gmail.com
 
 ---
 
